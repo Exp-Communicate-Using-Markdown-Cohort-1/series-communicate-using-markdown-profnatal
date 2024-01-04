@@ -29,3 +29,8 @@
 $ git calor
 Repositório Git vazio inicializado em /Users/skills/Projects/recipe-repository/.git/
 ```
+## 4. Adicinando lista de tarefas
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
