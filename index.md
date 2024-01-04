@@ -10,3 +10,22 @@
 
 ## 2. Inserindo imagem
 #### ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+## 3. Adicionando um exemplo de código
+#### Código 1
+```
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Título da Página</title>
+</head>
+<body>
+    <!-- Conteúdo da Página -->
+</body>
+</html>
+```
+#### Código 2
+```
+$ git calor
+Repositório Git vazio inicializado em /Users/skills/Projects/recipe-repository/.git/
+```
